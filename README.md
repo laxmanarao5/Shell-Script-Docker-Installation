@@ -1,5 +1,5 @@
 # Shell-Script-Docker-Installation
-With this Script file we can easily Install Docker in Linux machine
+With this Script file we can easily Install Docker in Debian and Ubuntu Linux machine
 
 This Script file is usefull for quickly install Docker Engine and docker compose in any ubuntu machine
 
